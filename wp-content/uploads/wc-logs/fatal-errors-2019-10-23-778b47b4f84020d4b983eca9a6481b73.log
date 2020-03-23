@@ -1,0 +1,6 @@
+2019-10-23T00:34:16+00:00 CRITICAL Cannot redeclare add_menu_parent_class() (previously declared in /home/ivan/bitnami/apps/wordpress/htdocs/wp-content/themes/siteorigin-starter/functions.php:30) in /home/ivan/bitnami/apps/wordpress/htdocs/wp-content/themes/siteorigin-starter/functions.php on line 56
+
+2019-10-23T00:34:21+00:00 CRITICAL Cannot redeclare add_menu_parent_class() (previously declared in /home/ivan/bitnami/apps/wordpress/htdocs/wp-content/themes/siteorigin-starter/functions.php:30) in /home/ivan/bitnami/apps/wordpress/htdocs/wp-content/themes/siteorigin-starter/functions.php on line 56
+
+2019-10-23T00:35:27+00:00 CRITICAL Cannot redeclare add_menu_parent_class() (previously declared in /home/ivan/bitnami/apps/wordpress/htdocs/wp-content/themes/siteorigin-starter/functions.php:30) in /home/ivan/bitnami/apps/wordpress/htdocs/wp-content/themes/siteorigin-starter/functions.php on line 56
+

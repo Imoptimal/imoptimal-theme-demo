@@ -1,0 +1,8 @@
+2019-10-31T00:01:16+00:00 CRITICAL syntax error, unexpected ''1.0'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ivan/bitnami/apps/wordpress/htdocs/wp-content/themes/siteorigin-starter/functions.php on line 7
+
+2019-10-31T00:01:53+00:00 CRITICAL syntax error, unexpected ''1.0'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ivan/bitnami/apps/wordpress/htdocs/wp-content/themes/siteorigin-starter/functions.php on line 7
+
+2019-10-31T00:02:28+00:00 CRITICAL syntax error, unexpected ''1.0'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ivan/bitnami/apps/wordpress/htdocs/wp-content/themes/siteorigin-starter/functions.php on line 6
+
+2019-10-31T00:02:34+00:00 CRITICAL syntax error, unexpected ''1.0'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ivan/bitnami/apps/wordpress/htdocs/wp-content/themes/siteorigin-starter/functions.php on line 6
+
