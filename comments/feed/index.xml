@@ -9,7 +9,7 @@
 	<title>
 	Comments for Imoptimal Theme	</title>
 	<atom:link href="http://localhost/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://imoptimal.github.io/imoptimal-theme-demo/</link>
+	<link>https://imoptimal.github.io/imoptimal-theme-demo/</link>
 	<description>Demo Website</description>
 	<lastBuildDate>Wed, 16 Sep 2020 00:04:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>http://imoptimal.github.io/imoptimal-theme-demo/hello-world/#comment-1</link>
+		<link>https://imoptimal.github.io/imoptimal-theme-demo/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 09 Aug 2020 14:38:23 +0000</pubDate>
-		<guid isPermaLink="false">http://imoptimal.github.io/imoptimal-theme-demo/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://imoptimal.github.io/imoptimal-theme-demo/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
