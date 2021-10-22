@@ -1,12 +1,11 @@
 # imoptimal-theme-demo
 Live Demo for the Imoptimal Theme
 
-Uploaded as a static website (using the WP2Static plugin in WordPress.<br>
+Uploaded as a static website (using the Simply Static plugin in WordPress.<br>
 It was developed on a local server, so certain functionalities are messed up due to the absolute url paths used.<br>
 Also certain plugins may not work properly due to the migration to static files.
 
 Resources used:
-
-* All of the photos used here are downloaded from pexels.com (category of Cats - https://www.pexels.com/search/cat/)<br>
-* Icons © Alexander Kahlkopf, https://iconmonstr.com/license/ - available free of charge @ https://iconmonstr.com/ <br>
+* Cover photo used by <a href="https://unsplash.com/@ettocl?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Léonard Cotte</a> on <a href="https://unsplash.com/s/photos/purple-gold?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  <br>
 * The logo © 2018 Ivan Maljukanović, CC0 - made by me, not available online apart from this repository
