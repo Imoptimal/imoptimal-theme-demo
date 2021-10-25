@@ -1,5 +1,5 @@
 # imoptimal-theme-demo
-Live Demo for the Imoptimal Theme
+Live Demo for the Imoptimal Theme - https://imoptimal.github.io/imoptimal-theme-demo/
 
 Uploaded as a static website (using the Simply Static plugin in WordPress).<br>
 It was developed on a local server, so certain functionalities are messed up due to the absolute url paths used.<br>
